@@ -1,0 +1,5 @@
+{
+  "name": "Thư Viện Genz",
+  "description": "Một ứng dụng quản lý thư viện đơn giản và hiện đại, được thiết kế cho cả học sinh và quản trị viên. Tích hợp các tính năng thông minh như phân tích file Excel bằng AI để quản lý sách và học sinh.",
+  "requestFramePermissions": []
+}
